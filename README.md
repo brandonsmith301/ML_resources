@@ -1,4 +1,4 @@
-# ML resources
+# ML resources I have found useful..
 This is my GitHub repository where I share a collection of useful resources related to machine learning, artificial intelligence, and data science.
 
 # Links
